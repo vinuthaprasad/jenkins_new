@@ -1,0 +1,14 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-07-12 17:15:24.337 UTC</timestamp>
+  <md5sum>92a99baffb71c6b114e15e11cae7fe55</md5sum>
+  <fileName>Credential id=b2bcf979-e2a1-4e2e-8666-d180a0de5f97 name=new_pem</fileName>
+  <usages/>
+  <facets>
+    <com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet plugin="credentials@2.2.0">
+      <timestamp>1563205091604</timestamp>
+      <nodeName>slave1</nodeName>
+      <timestamp0>1563203531604</timestamp0>
+    </com.cloudbees.plugins.credentials.fingerprints.NodeCredentialsFingerprintFacet>
+  </facets>
+</fingerprint>

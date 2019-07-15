@@ -1,0 +1,13 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-07-15 02:49:31.133 UTC</timestamp>
+  <md5sum>204ad0665c805dc015686148d48981ac</md5sum>
+  <fileName>Credential id=0e35ac7a-5a55-44ba-ab9d-898e3c5ebcc3 name=vinuthaprasad/******</fileName>
+  <usages>
+    <entry>
+      <string>new_job1</string>
+      <ranges>1-2</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

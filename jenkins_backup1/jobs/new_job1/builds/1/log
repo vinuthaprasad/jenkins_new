@@ -1,0 +1,25 @@
+Started by user [8mha:////4NobTx/c+kifV/GKXZuzWHYOd0AzkU7A84HAOrPYgYK9AAAAnx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZh/dLi1CL9ssy80pKMxIKixOLEFADkBhqvyAAAAA==[0mvinuthaprasad
+Running as SYSTEM
+Building on master in workspace /var/lib/jenkins/workspace/new_job1
+using credential 0e35ac7a-5a55-44ba-ab9d-898e3c5ebcc3
+Cloning the remote Git repository
+Cloning repository https://github.com/vinuthaprasad/central_repo1.git
+ > git init /var/lib/jenkins/workspace/new_job1 # timeout=10
+Fetching upstream changes from https://github.com/vinuthaprasad/central_repo1.git
+ > git --version # timeout=10
+using GIT_ASKPASS to set credentials 
+ > git fetch --tags --progress https://github.com/vinuthaprasad/central_repo1.git +refs/heads/*:refs/remotes/origin/*
+ > git config remote.origin.url https://github.com/vinuthaprasad/central_repo1.git # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url https://github.com/vinuthaprasad/central_repo1.git # timeout=10
+Fetching upstream changes from https://github.com/vinuthaprasad/central_repo1.git
+using GIT_ASKPASS to set credentials 
+ > git fetch --tags --progress https://github.com/vinuthaprasad/central_repo1.git +refs/heads/*:refs/remotes/origin/*
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+ > git rev-parse refs/remotes/origin/origin/master^{commit} # timeout=10
+Checking out Revision 196c0bf1fbd16479e810f25fc7c3cd15abce4d61 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 196c0bf1fbd16479e810f25fc7c3cd15abce4d61
+Commit message: "Update name_vinutha"
+First time build. Skipping changelog.
+Finished: SUCCESS
